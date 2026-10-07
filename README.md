@@ -1,8 +1,18 @@
-# Project title
-Javi was here
+# README of the whole project
+This is the readme completed.
 
+## Setup:
+- Library 1.
+- Library 2.
+- Library 3.
 
-Making some changes for class!
+## Inputs: 
+* input1.
+* input2.
+* input3.
 
-# Updated for practice week 3
-New single line for second practice 
+### Mrhaba: 
+asdasfsdgdfg
+```{r}
+afasf
+```
